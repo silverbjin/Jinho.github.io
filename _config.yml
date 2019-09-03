@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "silverbjin@gmail.com"
   facebook: deanattali
   github: daattali
   twitter: daattali
@@ -148,7 +148,7 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: "Jinho's first blog"
 
 # Ruby Date Format
 date_format: "%B %-d, %Y"
